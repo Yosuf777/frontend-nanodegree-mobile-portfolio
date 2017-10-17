@@ -53,3 +53,15 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+document.querySelector("#pizzaSize").innerHTML = "Small"; 
+to 
+ document.getElementById("pizzaSize")= "Small";
+---
+var dx = determineDx(document.querySelectorAll(".randomPizzaContainer")[i], size);
+to
+ for (var i = 0; i <     document.getElementsByClassName("randomPizzaContainer").length; i++) 
+
+document.querySelectorAll(".randomPizzaContainer")[i].style.width = newwidth;
+to 
+ var randomPizzaContainer =  document.getElementsByClassName('randomPizzaContainer');
+etc...
