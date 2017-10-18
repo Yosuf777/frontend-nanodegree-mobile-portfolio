@@ -25,6 +25,9 @@ i use variable outside & fixed starting point
 i used 000webhost for speed test 
 
 the index
-https://ysit986.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master/frontend-nanodegree-mobile-portfolio-master/index.html
+
+https://yosefahad.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master%20(1)/frontend-nanodegree-mobile-portfolio-master/index.html
+
 the pizza
-https://ysit986.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master/frontend-nanodegree-mobile-portfolio-master/views/pizza.html
+
+https://yosefahad.000webhostapp.com/frontend-nanodegree-mobile-portfolio-master%20(1)/frontend-nanodegree-mobile-portfolio-master/views/pizza.html
